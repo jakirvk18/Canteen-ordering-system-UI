@@ -1,4 +1,4 @@
-# LBRCE Canteen Management System 🍟
+# College Canteen Management System 🍟
 
 A modern, cross-platform mobile application developed with **Flutter** to digitalize and streamline the food ordering process within institutional or organizational canteens. It focuses on reducing waiting times and automating order management for both students and staff.
 
@@ -79,7 +79,4 @@ This project requires the **Flutter SDK** and the necessary assets to run correc
 
 ---
 
-## 📄 License
 
-This project is open-source. Please see the repository's `LICENSE` file for details on usage and modification.
-```eof
