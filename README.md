@@ -76,8 +76,10 @@ This project requires the **Flutter SDK** and the necessary assets to run correc
 ## UI🤩
 ### Gateway Page
 <img width="1919" height="908" alt="Screenshot 2025-10-28 152650" src="https://github.com/user-attachments/assets/052bc81c-f1d8-4727-ac1e-23b2c088c581" />
+
 ### Menu
 <img width="1919" height="908" alt="Screenshot 2025-10-28 152721" src="https://github.com/user-attachments/assets/70f74b43-4687-4720-8b7a-ca9eafd3f168" />
+
 ### Payment Interface
 <img width="1919" height="899" alt="Screenshot 2025-10-28 152821" src="https://github.com/user-attachments/assets/7f6022f6-9cfd-4523-a1e9-ecea2cce28c1" />
 
